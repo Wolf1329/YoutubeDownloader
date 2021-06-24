@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "\U0001F5E8 Ask a question"
+  - name: 📖 Wiki
+    url: https://github.com/Tyrrrz/YoutubeDownloader/wiki
+    about: Find usage guides and frequently asked questions.
+  - name: 🗨 Discussions
     url: https://github.com/Tyrrrz/YoutubeDownloader/discussions/new
-    about: Please ask and answer questions here.
+    about: Ask and answer questions.
